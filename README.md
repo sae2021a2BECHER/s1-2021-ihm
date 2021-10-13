@@ -1,5 +1,5 @@
 # s1-2021-ihm
-    <a href"mailto:thomas.becher@edu.univ-fcomte.fr">Thomas BECHER</a>
+    [Thomas BECHER](mailto:thomas.becher@edu.univ-fcomte.fr)
     Paul MAFFIOLINI
     Julien MERVEAUX
     Lucas LEHMANN
