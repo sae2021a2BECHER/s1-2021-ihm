@@ -39,6 +39,7 @@ header {
 }
 
 /*Atos*/
+/*Atos*/
 .bgp{
   background-color: #E1E1E4;
 }
@@ -49,13 +50,6 @@ header {
 }
 .bgall2{
   background-color: #498FAB;
-  background: none;
-}
-
-.titre{
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background: none;
 }
 
