@@ -38,6 +38,36 @@ header {
   width: auto;
 }
 
+/*Atos*/
+.bgp{
+  background-color: #E1E1E4;
+}
+
+.bgall1{
+  background-color: #0681B1;
+  background: none;
+}
+.bgall2{
+  background-color: #498FAB;
+  background: none;
+}
+
+.titre{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: none;
+}
+
+.atos_logo{
+  max-width: 100%;
+  height: auto;
+}
+.atos_image{
+  max-width: 100%;
+}
+/*Atos*/
+
 /* Comparatif */
 
 .critere{
@@ -47,3 +77,5 @@ header {
 .critere2{
   background: #0099ff;
 }
+
+/* Comparatif */
