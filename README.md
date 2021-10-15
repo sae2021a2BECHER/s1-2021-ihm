@@ -8,3 +8,7 @@ Groupe :<br>
     Paul MAFFIOLINI<br>
     Julien MERVEAUX<br>
     Lucas LEHMANN<br>
+    <br><br>Affichage des maquettes :
+    <ul>
+    <li>[Page d'acceuil](mailto:thomas.becher@edu.univ-fconte.fr?subject=[SAE_S1.06-A2])</li>
+    </ul>
