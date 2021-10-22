@@ -16,3 +16,14 @@ Groupe :<br>
     ![Page d'entreprise](https://github.com/sae2021a2BECHER/s1-2021-ihm/blob/main/images/pageentreprise.png)<br><br>
     Page comparative : <br>
     ![Page comparative](https://github.com/sae2021a2BECHER/s1-2021-ihm/blob/main/images/pagecomparatif.png)<br><br>
+    <br><br>
+    Verification des pages :
+    <br><br>
+    - Page d'accueil (Thomas BECHER)
+    ![Page comparative](https://github.com/sae2021a2BECHER/s1-2021-ihm/blob/main/images/pagecomparatif.png)<br><br>
+    - Page d'Atos (Julien MERVEAUX et Lucas LEHMANN)
+    ![Page comparative](https://github.com/sae2021a2BECHER/s1-2021-ihm/blob/main/images/pagecomparatif.png)<br><br>
+    - Page de Sopra Steria (Thomas BECHER et Paul MAFFIOLINI)
+    ![Page comparative](https://github.com/sae2021a2BECHER/s1-2021-ihm/blob/main/images/pagecomparatif.png)<br><br>
+    - Page d'comparatif (Thomas BECHER et Paul MAFFIOLINI)
+    ![Page comparative](https://github.com/sae2021a2BECHER/s1-2021-ihm/blob/main/images/pagecomparatif.png)<br><br>
